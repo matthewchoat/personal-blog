@@ -1,8 +1,24 @@
+# README
 
-# git-blog app
-I build this blog app as a way to learn Git and GitHub. Going forward I'll keep it up to date with my current information and occasionally write blog posts.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-check back soon!
+Things you may want to cover:
 
-<img src="readme.png" alt="Blog Screenshot">
+* Ruby version
 
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
