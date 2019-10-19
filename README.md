@@ -4,5 +4,5 @@ I build this blog app as a way to learn Git and GitHub. Going forward I'll keep 
 
 check back soon!
 
-<img src="screenshot.png" alt="Blog Screenshot">
+<img src="readme.png" alt="Blog Screenshot">
 
