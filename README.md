@@ -1,24 +1,5 @@
-# README
+<h1>Personal Blog</h1>
+<h2>A blog and portfolio built with GitHub </h2>
+This personal blog and portfolio web application was created to test my skills working with GitHub branches, pull requests, and commit merges.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="https://matthewchoat.netlify.com/grammable.png" />
